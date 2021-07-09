@@ -3,7 +3,7 @@
 
 I build software for fun and the betterment of mankind 🌎🌍🌏. I also do things with markets for 💸.
 
-Talk to me about [bitcoin](https://en.wikipedia.org/wiki/Bitcoin), [Blockchain](Blockchain), [decentralized finance](https://defipulse.com/), [NFT](https://en.wikipedia.org/wiki/Non-fungible_token) 
+Talk to me about [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), [Blockchain](Blockchain), [decentralized finance](https://defipulse.com/), [NFT](https://en.wikipedia.org/wiki/Non-fungible_token) 
 
 Projects 📌
 - developer of https://www.bithumb.pro/ 💱
