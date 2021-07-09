@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi i'm JAY 👋
 
-<!--
-**qq976739120/qq976739120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I build software for fun and the betterment of mankind 🌎🌍🌏. I also do things with markets for 💸.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Talk to me about [bitcoin](https://en.wikipedia.org/wiki/Bitcoin), [Blockchain](Blockchain), [decentralized finance](https://defipulse.com/), [NFT](https://en.wikipedia.org/wiki/Non-fungible_token) 
+
+Projects 📌
+- developer of https://www.bithumb.pro/ 💱
+- core developer of https://sup.finance/ 💸
+- Technical Manger of https://mynft.io/ 📈
+
+
+Around the web 🌐
+ - Check out my [linkedin](https://www.linkedin.com/in/%E5%98%89%E8%AF%9A-%E6%B2%88-5812b8174/) 
+ - Check out my [zhihu](https://www.zhihu.com/people/kan-kan-1-12) 
