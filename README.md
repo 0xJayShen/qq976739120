@@ -1,4 +1,4 @@
-### Hi i'm JAY 👋
+## Hi i'm JAY 👋
 
 
 I build software for fun and the betterment of mankind 🌎🌍🌏. I also do things with markets for 💸.
