@@ -8,7 +8,7 @@ Talk to me about [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), [Blockchain](
 Projects 📌
 - developer of https://www.bithumb.pro/ 💱
 - core developer of https://sup.finance/ 💸
-- Technical Manger of https://mynft.io/ 📈
+- technical manger of https://mynft.io/ 📈
 
 
 Around the web 🌐
