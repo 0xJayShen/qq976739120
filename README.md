@@ -12,5 +12,5 @@ Projects 📌
 
 
 Around the web 🌐
- - Check out my [linkedin](https://www.linkedin.com/in/%E5%98%89%E8%AF%9A-%E6%B2%88-5812b8174/) 
- - Check out my [zhihu](https://www.zhihu.com/people/kan-kan-1-12) 
+ - check out my [linkedin](https://www.linkedin.com/in/%E5%98%89%E8%AF%9A-%E6%B2%88-5812b8174/) 
+ - check out my [zhihu](https://www.zhihu.com/people/kan-kan-1-12) 
