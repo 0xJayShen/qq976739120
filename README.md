@@ -1,6 +1,5 @@
 ## Hi, i'm JAY 👋
 
-//[![jay's github stats](https://github-readme-stats.vercel.app/api?username=qq976739120&count_private=true&show_icons=true&theme=onedark)](https://github.com/qq976739120)
 
 
 I build software for fun and the betterment of mankind 🌎🌍🌏. I also do things with markets for 💸.
